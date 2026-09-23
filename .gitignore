@@ -1,0 +1,19 @@
+# Dependencies
+node_modules/
+frontend/node_modules/
+
+# Production build artifacts
+dist/
+frontend/dist/
+bin/
+backend/bin/
+
+# IDE & Editor files
+.idea/
+.vscode/
+*.iml
+*.class
+
+# Operating System files
+.DS_Store
+Thumbs.db
